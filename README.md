@@ -26,6 +26,10 @@
 
 <a href="https://docs.deno.com/runtime/reference/cli/jupyter/" > Deno Website </a>
 
+
+<a href="https://docs.deno.com/runtime/getting_started/installation/"> Installation Website </a>
+
+
 </p>
 
 ```bash 
@@ -39,6 +43,9 @@ This command installs the Deno kernel for Jupyter.
 Using Deno in Jupyter Notebook
 Launch Jupyter Notebook or JupyterLab.
 When creating a new notebook, select the Deno kernel from the kernel options.
+
+<br>
+
 Running Code
 You can now write and execute TypeScript or JavaScript code directly in your Jupyter Notebook cells.
 
